@@ -13,7 +13,7 @@ sections:
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
+      username: me
       text: ''
       # Show a call-to-action button under your biography? (optional)
       button:
@@ -42,11 +42,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My research cuts across human-environment interactions, climate adaptation, nature-based solutions, and sustainable land management. I investigate and write about issues at the intersection of environment and society. My work integrates geospatial analysis (GIS, remote sensing, spatial modelling) with participatory and policy-oriented approaches to examine both biophysical change and human decision-making.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
+Across previous and ongoing projects, I aim to generate evidence that supports climate-resilient livelihoods, informs land-use policy, and strengthens locally grounded solutions to environmental and social vulnerability. Please feel free to reach out for partnerships or collaborations. 😃
     design:
       columns: '1'
   - block: collection
