@@ -2,68 +2,62 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Lawrence Akpoterai
+  given: Lawrence
+  family: Akpoterai
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
   pronouns: he/him
 postnominals:
-  - PhD
-  - MIEEE
 status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+  icon: "🌍"
+role: Doctoral Researcher
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  Lawrence Akpoterai is a doctoral researcher at the Department of Geography and the Environment, University of Alabama. His research examines nature-based solutions for land management and climate adaptation. He works across research, policy, and community action, using tools like GIS and field-based engagement to understand real-world environmental challenges. 
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: The University of Alabama
+    url: https://geography.ua.edu/graduate-student/lawrence-akpoterai/
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:lawrenceakpoterai@gmail.com
     label: E-mail Me
   - icon: brands/x
-    url: https://x.com/example
+    url: https://x.com/akpoterai
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/lawrenceakpoterai
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://www.linkedin.com/in/lawrenceakpoterai/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://scholar.google.com/citations?hl=en&user=klFWBCsAAAAJ&view_op=list_works&sortby=pubdate
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0009-0008-7574-449X
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Human-Environment Interactions
+  - Nature-based Solutions
+  - Climate Resilience
+  - Geospatial Analysis
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
-    summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+  - degree: PhD Geography
+    institution: The University of Alabama
+    start: 2025-08-20
+    end:
+    summary:
     button:
-      text: Download dissertation
-      url: /resume.pdf
+      text:
+      url:
       icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+  - degree: MS Climate Change Adaptation
+    institution: The University of Nairobi
+    start: 2021-09-20
+    end: 2024-08-15
+  - degree: BS Geography
+    institution: University of Ibadan
+    start: 2016-02-16
+    end: 2020-02-20
 
 experience:
   - role: Senior AI Research Scientist
