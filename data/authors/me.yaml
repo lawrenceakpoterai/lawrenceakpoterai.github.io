@@ -45,10 +45,10 @@ education:
     institution: The University of Alabama
     start: 2025-08-20
     end:
-    summary:
+    summary: Nature-based solutions for sustainable land management
     button:
       text:
-      url:
+      url: https://geography.ua.edu/graduate-student/lawrence-akpoterai/
       icon: hero/arrow-down-tray
   - degree: MS Climate Change Adaptation
     institution: The University of Nairobi
@@ -60,51 +60,112 @@ education:
     end: 2020-02-20
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Research and Geospatial Analyst
+    org: Prime TEC Data and GIS Solutions 
+    start: 2024-07-01
+    end: 2025-07-31
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
+      Led research, capacity-building initiatives, and geospatial data management and analyses using GIS and remote sensing techniques.
     button:
       text: View portfolio
-      url: /
+      url: https://primetecgis.com/resources
       icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+  - role: Research Intern
+    org: United Nations Climate Change Secretariat, Bonn, Germany 
+    start: 2023-08-01
+    end: 2024-01-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Worked with the Local Communities and Indigenous Peoples Platform (LCIPP) workstream to support program development, research, capacity-building initiatives, and knowledge development relevant to climate adaptation.
+  - role: Graduate Research and Teaching Assistant
+    org: Geography and Environmental Management, University of Ilorin, Nigeria  
+    start: 2021-06-09
+    end: 2022-05-22
+    summary: |
+      Provided research, teaching, and supervisory assistance to undergraduate students offering environmental management courses.
+  - role: Project Assistant
+    org: Inter-Campus Alliance for Sustainable Cities, University of Lagos, Nigeria
+    start: 2020-12-01
+    end: 2021-02-31
+    summary: |
+      Led data collection, management, analysis, mapping, and stakeholder engagements to support the assessment of waste management practices in Lagos Mainland.
+  - role: Geospatial Analyst/Research Assistant
+    org: COVID-19 Mapping Lab, University of Ibadan, Nigeria
+    start: 2020-03-09
+    end: 2021-05-23
+    summary: |
+      Supported research development, data surveillance, analysis, mapping, and reporting of COVID-19 trends and implications across Africa.
 
 skills:
   - name: Technical Skills
     items:
-      - label: Python
+      - label: Geographic Information Systems
         level: 5
-      - label: Machine Learning
+      - label: Remote Sensing
         level: 5
-      - label: Cloud Computing
-        level: 4
+      - label: Data Analysis
+        level: 5
   - name: Research & Communication
     items:
       - label: Academic Writing
         level: 5
       - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
+        level: 5
+      - label: Teaching
+        level: 5
 
 languages:
   - name: English
-    level: 5
-    label: Native
-  - name: Spanish
     level: 4
     label: Fluent
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+  - title: Graduate Council Fellowship
+    awarder: The University of Alabama Graduate School, United States of America
+    date: "2025"
+    summary: The most competitive and highly regarded award offered by the University in recognition of an excellent academic career.
+    icon: hero/trophy
+  - title: Civic/Community Engagement Award
+    awarder: Young African Leaders Initiative (YALI), Oyo, Nigeria
+    date: "2024"
+    summary: Awarded for consistent efforts and dedication towards society.
+    icon: hero/trophy
+  - title: Grant Awardee (Climate-resilient Agriculture)
+    awarder: The HEY Campaign, Ashley Lashley Foundation
+    date: "2023"
+    summary: Awarded a grant for a regional-focused climate-smart agriculture initiative for youth.
+    icon: hero/trophy
+  - title: Carrington Youth Fellowship Initiative (CYFI) Fellow
+    awarder: United States Consulate General, Lagos, Nigeria
+    date: "2022"
+    summary: Awarded for driving positive social change through innovative, community-based projects.
+    icon: hero/trophy
+  - title: AFAS Master's Scholarship
+    awarder: German Academic Exchange Service (DAAD)
+    date: "2021"
+    summary: Award of excellence to pursue a fully-funded master's degree in Climate Change Adaptation.
+    icon: hero/trophy
+  - title: Climate Leadership Fellowship
+    awarder: Climate Smart Nigeria
+    date: "2021"
+    summary: Awarded for advancing climate advocacy and literacy among students and communities.
+    icon: hero/trophy
+  - title: 1st Prize (Research and Innovation), Geo-Hackathon II 
+    awarder: World Bank & Ibadan Urban Flood Management Project
+    date: "2020"
+    summary: Winner in the Innovative Solution/Research category for developing and promoting a Flood Health Risk Mapper.
+    icon: hero/trophy
+  - title: Dean’s Roll of Honor Academic Award 
+    awarder: Faculty of Science, University of Ibadan, Nigeria
+    date: "2019"
+    summary: Award for academic excellence.
+    icon: hero/trophy
+  - title: Dean’s Roll of Honor Academic Award 
+    awarder: Faculty of Science, University of Ibadan, Nigeria
+    date: "2018"
+    summary: Award for academic excellence.
+    icon: hero/trophy
+  - title: Professor Oguntoyinbo Prize in Climatology 
+    awarder: Department of Geography, University of Ibadan, Nigeria
+    date: "2018"
+    summary: Award for best student in Climatology.
     icon: hero/trophy
